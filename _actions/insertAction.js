@@ -1,3 +1,4 @@
+'use server'
 import connectDB from "@/config/database";
 import PostModel from "@/models/postModel";
 
